@@ -1,0 +1,1 @@
+This contains the original C++ and OCaml ray tracer programs from [C++ vs. OCaml: Ray Tracer COmparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html), as well as my modifications to the C++ and my C and Fortran implementations.  On the C++ version, note that I have limited experience with C++, particularly post-C++98 C++.
